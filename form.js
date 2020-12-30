@@ -1,5 +1,5 @@
   document.getElementById("form-button").onclick = function() {
-    var answer = document.getElementById("form-answer");
+    var answer = document.getElementById("form-answer").value;
     if (answer == "かいせいぶんかさい") {
       var result = window.confirm("あなたは正解しました。");
       if (result) {
