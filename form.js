@@ -3,10 +3,10 @@
     if (answer == "かいせいぶんかさい") {
       var result = window.confirm("あなたは正解しました。");
       if (result) {
-        window.open('index.html', '_blank')
+        window.open('index.html', '_blank');
       }
     }else if (answer == "でこれーしょん") {
-      window.open('https://www.youtube.com', '_blank')
+      window.open('https://www.youtube.com', '_blank');
     }else {
       alert("不正解");
     };
