@@ -157,6 +157,9 @@
     padding: 0;
     margin: 0;
   }
+  .marulist::before{
+    content: "KEYWORD";
+  }
   .marulist li{
     font-size: 16px;
     line-height: 1.5;
