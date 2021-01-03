@@ -80,9 +80,9 @@
   .title_text{
   	display: table-cell;
     padding-left: 30%;
-    padding-top: 45%;
+    padding-top: 15%;
   	vertical-align: middle;
-  	height: 300%;
+  	height: 100%;
   }
   .title_text img{
   	border: none;
