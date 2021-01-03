@@ -2,7 +2,7 @@
   img{
     max-width: 100%;
     height: auto;
-    width /***/:auto;
+    width:auto;
     width: 40%;
   	border: 5px solid #000000;
   	display: block;
@@ -62,7 +62,7 @@
   header {
     display: flex;
     width: 100%;
-    height: 20vh;
+    height: 10vh;
     background: url(logo_bg.png) center / cover;
     align-items: center;
   }
