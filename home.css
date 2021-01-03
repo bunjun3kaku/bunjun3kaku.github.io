@@ -242,7 +242,7 @@
     border-right: 2px solid #228bc8;
   }
   .ef input[type='text']:focus {
-  	border: 1px solid #da3c41;
+  	border: 1px solid #00ff7f;
   	outline: none;
   	box-shadow: 0 0 5px 1px rgba(218,60,65, .5);
   }
