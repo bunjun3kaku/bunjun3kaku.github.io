@@ -1,12 +1,7 @@
 @media screen and (max-width: 640px) {
-  /*img{
-    max-width: 100%;
-    height: auto;
-    width:auto;
-  }*/
   img{
-    width: 40%;
-  	border: 5px solid #000000;
+    width: 70%;
+  	border: 2px solid #000000;
   	display: block;
   	margin: auto;
   }
