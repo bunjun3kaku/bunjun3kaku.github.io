@@ -75,7 +75,7 @@
   }
   .title_text{
     margin: 3vh 0 0;
-  	width: 50vw;
+  	width: 40vw;
   }
   .title_text img{
   	border: none;
@@ -84,7 +84,7 @@
   }
   .title_link{
     position: absolute;
-    left: 70%;
+    left: 80%;
     width: auto;
   }
   .title_link li {
@@ -93,17 +93,6 @@
   .title_link li img{
     border: none;
     height: 8vh;
-    width: auto;
-  }
-  .title_text{
-  	display: table-cell;
-  	vertical-align: middle;
-  	height: 50%;
-    width: 80%;
-  }
-  .title_text img{
-  	border: none;
-    height: 100%;
     width: auto;
   }
   .parent_guidebox{
