@@ -179,6 +179,7 @@ section{
 	width: 60%;
   padding-left: 20%;
   text-align: center;
+  margin-top: 20px;
 }
 .cp_iptxt input[type='text'] {
 	font: 15px/24px sans-serif;
