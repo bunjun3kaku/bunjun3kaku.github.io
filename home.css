@@ -1,4 +1,7 @@
 @media print, screen and (min-width: 640px) {
+  body{
+    counter-reset: number 0;
+  }
   img{
     width: 40%;
   	border: 5px solid #000000;
@@ -148,7 +151,6 @@
    border-radius: 8px 5px 2px 5px;
   }
   .marulist{
-    counter-reset: my-counter;
     list-style: none;
     padding: 0;
     margin: 0;
@@ -160,8 +162,8 @@
     position: relative;
   }
   .marulist li::before {
-    content: counter(my-counter);
-    counter-increment: my-counter;
+    content: counter(number);
+    counter-increment: number;
     background-color: #333;
     border: 1px solid;
     border-radius: 50%;
