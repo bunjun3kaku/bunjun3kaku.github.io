@@ -70,7 +70,7 @@
   }
   .title_link{
     display: inline-block;
-    padding-right: 100%;
+    margin-right: 100%;
   }
   .title_link li {
     list-style: none;
