@@ -81,11 +81,10 @@
   	display: table-cell;
     padding-left: 30%;
   	vertical-align: middle;
-  	height: 150%;
+  	height: 10000%;
   }
   .title_text img{
   	border: none;
-    height: 100%;
   }
   .parent_guidebox{
   	text-align: center;
