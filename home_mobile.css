@@ -62,7 +62,7 @@
   header {
     display: flex;
     width: 100%;
-    height: 5vh;
+    height: 10vh;
     background: url(logo_bg.png) center / cover;
     align-items: center;
   }
@@ -80,7 +80,7 @@
   .title_text{
   	display: table-cell;
     padding-left: 30%;
-    padding-top: 40%;
+    padding-top: 20%;
   	vertical-align: middle;
   	height: 100%;
   }
