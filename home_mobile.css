@@ -85,6 +85,7 @@
   }
   .title_text img{
   	border: none;
+    height: 100%;
   }
   .parent_guidebox{
   	text-align: center;
