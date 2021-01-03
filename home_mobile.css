@@ -78,7 +78,7 @@
     border: none;
   }
   .title_text{
-  	display: table-cell;
+  	display: inline-block;
     padding-left: 30%;
     padding-top: 15%;
   	vertical-align: middle;
