@@ -79,9 +79,9 @@
   }
   .title_text{
   	display: table-cell;
-    padding-left: 25%;
+    padding-left: 30%;
   	vertical-align: middle;
-  	height: 50%;
+  	height: 100%;
   }
   .title_text img{
   	border: none;
