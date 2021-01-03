@@ -1,6 +1,7 @@
 @media screen and (max-width: 640px) {
   body{
     counter-reset: number 0;
+    background-color: #fffff0;
   }
   img{
     width: 70%;
