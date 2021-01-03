@@ -75,7 +75,7 @@
   }
   .title_text{
     margin: 3vh 0 0;
-  	width: 70vw;
+  	width: 50vw;
   }
   .title_text img{
   	border: none;
@@ -84,7 +84,7 @@
   }
   .title_link{
     position: absolute;
-    left: 90%;
+    left: 70%;
     width: auto;
   }
   .title_link li {
