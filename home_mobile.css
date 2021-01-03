@@ -68,11 +68,11 @@
   }
   .title_link{
     display: inline-block;
-    margin-right: -30%;
+    margin-right: -20%;
   }
   .title_link li {
     list-style: none;
-    width: 30%;
+    width: 35%;
   }
   .title_link li img{
     border: none;
