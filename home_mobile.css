@@ -74,7 +74,7 @@
     vertical-align: middle;
   }
   .title_text{
-    margin: 3vh 0 0;
+    margin: 5vh 0 0;
   	width: 70vw;
   }
   .title_text img{
@@ -85,8 +85,8 @@
   .title_link{
     position: absolute;
     left: 75%;
-    bottom: 2%;
     width: auto;
+    margin: 5vh 0 0;
   }
   .title_link li {
     list-style: none;
