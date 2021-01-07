@@ -117,10 +117,10 @@
     color: #95ccff;
     font-weight: bold;
   }
-  .guidebox p {
+  .guidebox ul {
     margin: 0;
-    padding: 0;
-  	text-align: center;
+    padding: auto 5%;
+  	text-align: left;
   }
   .kokuban-s1 {
    position: relative;
